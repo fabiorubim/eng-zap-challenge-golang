@@ -6,3 +6,13 @@ OBS1: O projeto foi desenvolvido no Windows, neste caso será necessário instal
 OBS2: O projeto utiliza alguns pacotes que estão hospedados no GitHub(por exemplo o fasthttp), logo é necessário ter o Git instalado e configurado na variável de ambiente PATH.
 OBS3: Permita a conexão quando o firewall do Windows solicitar
 
+Após a aplicação iniciar as seguintes mensagens serão exibidas no console/prompt:
+
+downloading data...
+reading data...
+parsing data...
+done!
+
+Após done! é possível acessar os seguintes endpoints:
+http://localhost:8000/zap
+http://localhost:8000/vivareal
