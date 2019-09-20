@@ -24,4 +24,5 @@ done!
 Após done! é possível acessar os seguintes endpoints:
 
 http://localhost:8000/zap
+
 http://localhost:8000/vivareal
