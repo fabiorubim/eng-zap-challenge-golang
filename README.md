@@ -1,3 +1,4 @@
+![Versão do Go](https://img.shields.io/github/go-mod/go-version/fabiorubim/eng-zap-challenge-golang)
 # eng-zap-challenge-golang
 ZAP challenge
 
